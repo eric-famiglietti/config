@@ -1,0 +1,7 @@
+[color]
+	ui = true
+[core]
+	excludesfile = ~/.gitignore
+[user]
+	email = eric.famiglietti@gmail.com
+	name = Eric Famiglietti
