@@ -15,6 +15,7 @@
 3. The Spotlight menu keyboard shortcut should be turned off.
 4. The display brightness should be set to not automatically adjust.
 5. Enable zoom.
+6. Swipe between pages should be turned off.
 
 ### Security
 
