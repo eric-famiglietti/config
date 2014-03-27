@@ -54,6 +54,8 @@ Mou should be downloaded and installed.
 
 Spectacle should be downloaded and installed. It should be set to launch at login and should run as a background application. The appropriate hotkeys should be set.
 
+![Spectacle Preferences](Spectacle Preferences.png)
+
 ### [Sublime Text 2](http://www.sublimetext.com/)
 
 Sublime Text 2 should be downloaded and installed. Install [Package Control](https://sublime.wbond.net/).
