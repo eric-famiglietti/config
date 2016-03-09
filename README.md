@@ -18,6 +18,7 @@
 4. The display brightness should be set to not automatically adjust.
 5. Enable zoom.
 6. Swipe between pages should be turned off.
+  - System Preferences > Trackpad > More Gestures > "Swipe between pages" should be unchecked
 
 ### Security
 
