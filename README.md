@@ -16,6 +16,7 @@
 2. Natural scrolling should be turned off.
   - System Preferences > Trackpad > Scroll & Zoom > "Scroll direction: natural" should be unchecked
 3. The Spotlight menu keyboard shortcut should be turned off.
+  - System Preferences > Keyboard > Shortcuts > Spotlight > Uncheck "Show Spotlight search" and "Show finder search window"
 4. The display brightness should be set to not automatically adjust.
 5. Enable zoom.
 6. Swipe between pages should be turned off.
