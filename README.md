@@ -20,6 +20,7 @@
 4. The display brightness should be set to not automatically adjust.
   - System Preferences > Displays > Uncheck "Automatically adjust brightness"
 5. Enable zoom.
+  - System Preferences > Accessibility > Zoom > Check "Use scroll gesture with modifier keys to zoom:"
 6. Swipe between pages should be turned off.
   - System Preferences > Trackpad > More Gestures > "Swipe between pages" should be unchecked
 
