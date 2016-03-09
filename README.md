@@ -48,7 +48,7 @@
 
 ### [Alfred App](http://www.alfredapp.com/)
 
-Alfed App should be downloaded and installed. Alfred App should be used as a replacement to Spotlight.
+Alfed App should be downloaded and installed. Alfred App should be used as a replacement to Spotlight. Use the "Light" theme.
 
 ### [Google Chrome](https://www.google.com/intl/en/chrome/browser/)
 
