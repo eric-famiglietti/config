@@ -13,6 +13,7 @@
 1. The caps lock key should be disabled.
   - System Preferences > Keyboard > Modifier Keys... > Assign "No Action" to Caps Lock Key
 2. Natural scrolling should be turned off.
+  - System Preferences > Trackpad > Scroll & Zoom > "Scroll direction: natural" should be unchecked
 3. The Spotlight menu keyboard shortcut should be turned off.
 4. The display brightness should be set to not automatically adjust.
 5. Enable zoom.
