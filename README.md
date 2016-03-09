@@ -7,6 +7,7 @@
 1. The Applications folder should be added to the Dock. It should be set to display as "Folder", not "Stack".
 2. All applications should be removed from the Dock except those used most often (Google Chrome, Sublime Text 2, Terminal, etc.).
 3. The Dock should be set to automatically hide and show itself.
+  - System Preferences > Dock > "Automatically hide and show the Dock" should be checked
 
 ### Misc.
 
