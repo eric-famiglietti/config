@@ -8,6 +8,8 @@
 2. All applications should be removed from the Dock except those used most often (Google Chrome, Sublime Text 2, Terminal, etc.).
 3. The Dock should be set to automatically hide and show itself.
   - System Preferences > Dock > "Automatically hide and show the Dock" should be checked
+4. Lock the dock size.
+  - `defaults write com.apple.Dock size-immutable -bool yes; killall Dock`
 
 ### Misc.
 
