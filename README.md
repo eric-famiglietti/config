@@ -66,6 +66,12 @@ Spectacle should be downloaded and installed. It should be set to launch at logi
 
 ![Spectacle Preferences](Spectacle Preferences.png)
 
+### iTerm
+
+### Sequel Pro
+
+### Atom
+
 ### [Sublime Text 2](http://www.sublimetext.com/)
 
 Sublime Text 2 should be downloaded and installed. Install [Package Control](https://sublime.wbond.net/).
