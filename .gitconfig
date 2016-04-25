@@ -2,6 +2,8 @@
 	ui = true
 [core]
 	excludesfile = ~/.gitignore
+[fetch]
+	prune = true
 [user]
 	email = eric.famiglietti@gmail.com
 	name = Eric Famiglietti
